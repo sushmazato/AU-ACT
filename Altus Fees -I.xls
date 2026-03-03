@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>NetSuite</Author>
+  <LastAuthor>NetSuite</LastAuthor>
+  <Company>NetSuite</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9930</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="Comma">
+   <NumberFormat ss:Format="_-* #,##0.00_-;\-* #,##0.00_-;_-* &quot;-&quot;??_-;_-@_-"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Book Antiqua" x:Family="Roman" ss:Bold="1"/>
+   <Interior ss:Color="#D0D0D0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Font ss:FontName="Book Antiqua" x:Family="Roman"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Book Antiqua" x:Family="Roman"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s80">
+   <Font ss:FontName="Book Antiqua" x:Family="Roman"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Font ss:FontName="Book Antiqua" x:Family="Roman" ss:Color="#000000"/>
+   <NumberFormat ss:Format="#,##0.00_);[Red]\(#,##0.00\)"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Book Antiqua" x:Family="Roman"/>
+  </Style>
+  <Style ss:ID="s83" ss:Parent="s16">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Book Antiqua" x:Family="Roman"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="PROBSExternalAnnualAgreementIn">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="15" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s78" ss:DefaultColumnWidth="42"
+   ss:DefaultRowHeight="13.5">
+   <Column ss:StyleID="s78" ss:Width="54"/>
+   <Column ss:StyleID="s78" ss:Width="293.25"/>
+   <Column ss:StyleID="s78" ss:Width="43.5"/>
+   <Column ss:StyleID="s78" ss:Width="60"/>
+   <Column ss:StyleID="s78" ss:Width="70.5"/>
+   <Column ss:StyleID="s78" ss:Width="53.25" ss:Span="1"/>
+   <Column ss:Index="8" ss:StyleID="s78" ss:Width="56.25"/>
+   <Column ss:StyleID="s78" ss:Width="30.75"/>
+   <Column ss:StyleID="s78" ss:Width="76.5"/>
+   <Column ss:StyleID="s78" ss:Width="60"/>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Group</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Collections Entity</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Invoice #</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Invoice Date</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">BS Manager</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Net</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Gross</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Status</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Type</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">BS Costing Sheet</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Pmnt Date</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1059630</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-06-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-07-21T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1057672</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-05-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-06-16T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1055976</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-04-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-05-16T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1054362</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-03-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-04-17T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1052702</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-02-28T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-03-20T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1051053</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-01-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-02-20T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1049978</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-12-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2025-01-20T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1048598</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-11-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-12-16T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1046553</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-10-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-11-20T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1045121</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-09-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-10-21T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1043670</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-08-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-09-17T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">IMAA GROUP</Data></Cell>
+    <Cell><Data ss:Type="String">IMAA GROUP : Independent Media Agencies Australia Limited</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">1042123</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-07-30T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="String">Tim McMahon</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2155</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">2370.5</Data></Cell>
+    <Cell><Data ss:Type="String">Paid In Full</Data></Cell>
+    <Cell><Data ss:Type="String">Invoice</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="Number">7661</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="DateTime">2024-08-26T00:00:00.000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4" ss:StyleID="s80"/>
+    <Cell ss:Index="6" ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:Index="11" ss:StyleID="s80"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="4" ss:StyleID="s82"><Data ss:Type="String">Total </Data></Cell>
+    <Cell ss:StyleID="s82"/>
+    <Cell ss:StyleID="s83" ss:Formula="=SUM(R[-13]C:R[-1]C)"><Data ss:Type="Number">25860</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=SUM(R[-13]C:R[-1]C)"><Data ss:Type="Number">28446</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>20</ActiveRow>
+     <ActiveCol>9</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
